@@ -8,7 +8,7 @@ I'm a passionate Java developer at a solid middle level, confidently working wit
 
 <p align="left">
   <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" style="border-radius:50%; margin-right:10px;" />
-  <img alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" width="50" height="50" style="border-radius:50%; margin-right:10px;" />
+   <img alt="Spring Boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" style="border-radius:50%; margin-right:10px;" />
   <img alt="Spring Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" style="border-radius:50%; margin-right:10px;" />
   <img alt="Kafka" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50" height="50" style="border-radius:50%; margin-right:10px;" />
   <img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" height="50" style="border-radius:50%; margin-right:10px;" />

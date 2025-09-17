@@ -32,11 +32,6 @@ I'm a 2nd year university student, focused on developing solid Java backend skil
 
 ---
 
-## ⚡ GitHub Stats
-
-![dywinarpython's GitHub stats](https://github-readme-stats.vercel.app/api?username=dywinarpython&show_icons=true&theme=radical)
-
----
 <p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="waving hand" />
 </p>
